@@ -16,6 +16,8 @@ dependencies:
   - defopt
   - snakemake
   - zuko
+  - jupyter
+  - ipykernel
   - pip
   - pip:
     - sbi==v0.22.0
