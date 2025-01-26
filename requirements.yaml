@@ -12,6 +12,7 @@ dependencies:
   - snakemake
   - jupyter
   - jupyterlab
+  - ipykernel
   - pip
   - pip:
     - sbi==v0.22.0
