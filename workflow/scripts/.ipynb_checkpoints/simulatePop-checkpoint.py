@@ -7,7 +7,6 @@ import pandas as pd
 import numpy as np
 from scipy import stats
 from sbi import utils as utils
-# import demesdraw
 import matplotlib.pyplot as plt
 import allel
 from collections import Counter
