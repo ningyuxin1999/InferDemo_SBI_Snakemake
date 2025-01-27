@@ -354,7 +354,7 @@ dependencies:
       - pytz==2024.2
       - sbi==0.22.0
       - scikit-learn==1.6.1
-      - scipy==1.13.1
+      - scipy==1.10.1
       - sympy==1.13.1
       - tensorboard==2.18.0
       - tensorboard-data-server==0.7.2
